@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.main{
+    width: 80vw;
+}
+.infocontainer{
+    
+   width: 80%;
+   height: 60%;
+   margin: 130px auto;
+   display: flex;
+   justify-content: space-around;
+}
+
+.hello{
+    font-style: italic;
+    font-size:47px ;
+
+}
+.name{
+    font-size:60px ;
+
+}
+.about{
+    font-size:30px ;
+
+}
